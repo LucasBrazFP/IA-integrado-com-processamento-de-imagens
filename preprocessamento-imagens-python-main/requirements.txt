@@ -1,0 +1,6 @@
+python-dotenv
+Pillow
+rembg
+onnxruntime
+numpy
+kagglehub
