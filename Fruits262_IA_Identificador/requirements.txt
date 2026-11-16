@@ -1,0 +1,10 @@
+python-dotenv
+Pillow
+rembg
+onnxruntime
+numpy
+kagglehub
+pandas
+torch
+torchvision
+openai

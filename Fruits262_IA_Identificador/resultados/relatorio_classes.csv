@@ -1,0 +1,263 @@
+Fruta,Imagens_validacao,Acertos,Acuracia
+abiu,40,29,72.5
+acai,40,30,75.0
+acerola,40,20,50.0
+ackee,40,31,77.5
+alligator apple,40,19,47.5
+ambarella,40,22,55.0
+apple,40,28,70.0
+apricot,40,14,35.0
+araza,40,24,60.0
+avocado,40,32,80.0
+bael,40,26,65.0
+banana,40,35,87.5
+barbadine,40,26,65.0
+barberry,40,30,75.0
+bayberry,40,28,70.0
+beach plum,40,26,65.0
+bearberry,40,27,67.5
+bell pepper,40,32,80.0
+betel nut,40,30,75.0
+bignay,40,33,82.5
+bilimbi,40,26,65.0
+bitter gourd,40,29,72.5
+black berry,40,26,65.0
+black cherry,40,18,45.0
+black currant,40,24,60.0
+black mullberry,40,20,50.0
+black sapote,40,24,60.0
+blueberry,40,24,60.0
+bolwarra,40,18,45.0
+bottle gourd,40,22,55.0
+brazil nut,40,33,82.5
+bread fruit,40,30,75.0
+buddha's hand,40,30,75.0
+buffaloberry,40,28,70.0
+burdekin plum,40,29,72.5
+burmese grape,40,24,60.0
+caimito,40,32,80.0
+camu camu,40,28,70.0
+canistel,40,17,42.5
+cantaloupe,40,21,52.5
+cape gooseberry,40,18,45.0
+carambola,40,34,85.0
+cardon,40,31,77.5
+cashew,40,25,62.5
+cedar bay cherry,40,23,57.5
+cempedak,40,31,77.5
+ceylon gooseberry,40,36,90.0
+che,40,23,57.5
+chenet,40,26,65.0
+cherimoya,40,28,70.0
+cherry,40,25,62.5
+chico,40,5,12.5
+chokeberry,40,29,72.5
+clementine,40,14,35.0
+cloudberry,40,34,85.0
+cluster fig,40,15,37.5
+cocoa bean,40,26,65.0
+coconut,40,31,77.5
+coffee,40,22,55.0
+common buckthorn,40,35,87.5
+corn kernel,40,32,80.0
+cornelian cherry,40,27,67.5
+crab apple,40,17,42.5
+cranberry,40,15,37.5
+crowberry,40,34,85.0
+cupuacu,40,29,72.5
+custard apple,40,12,30.0
+damson,40,25,62.5
+date,40,30,75.0
+desert fig,40,18,45.0
+desert lime,40,18,45.0
+dewberry,40,20,50.0
+dragonfruit,40,30,75.0
+durian,40,35,87.5
+eggplant,40,32,80.0
+elderberry,40,30,75.0
+elephant apple,40,24,60.0
+emblic,40,30,75.0
+entawak,40,24,60.0
+etrog,40,28,70.0
+feijoa,40,26,65.0
+fibrous satinash,40,17,42.5
+fig,40,34,85.0
+finger lime,40,22,55.0
+galia melon,40,19,47.5
+gandaria,40,23,57.5
+genipap,40,30,75.0
+goji,40,35,87.5
+gooseberry,40,24,60.0
+goumi,40,32,80.0
+grape,40,21,52.5
+grapefruit,40,28,70.0
+greengage,40,20,50.0
+grenadilla,40,27,67.5
+guanabana,40,21,52.5
+guarana,40,35,87.5
+guava,40,21,52.5
+guavaberry,40,23,57.5
+hackberry,40,27,67.5
+hard kiwi,40,22,55.0
+hawthorn,40,9,22.5
+hog plum,40,16,40.0
+honeyberry,40,35,87.5
+honeysuckle,40,25,62.5
+horned melon,40,37,92.5
+illawarra plum,40,35,87.5
+indian almond,40,28,70.0
+indian strawberry,40,18,45.0
+ita palm,40,37,92.5
+jaboticaba,40,30,75.0
+jackfruit,40,29,72.5
+jalapeno,40,30,75.0
+jamaica cherry,40,19,47.5
+jambul,40,31,77.5
+japanese raisin,40,35,87.5
+jasmine,40,27,67.5
+jatoba,40,33,82.5
+jocote,40,24,60.0
+jostaberry,40,30,75.0
+jujube,40,22,55.0
+juniper berry,40,30,75.0
+kaffir lime,40,30,75.0
+kahikatea,40,35,87.5
+kakadu plum,40,24,60.0
+keppel,40,36,90.0
+kiwi,40,25,62.5
+kumquat,40,22,55.0
+kundong,40,24,60.0
+kutjera,40,34,85.0
+lablab,40,27,67.5
+langsat,40,22,55.0
+lapsi,40,19,47.5
+lemon,40,25,62.5
+lemon aspen,40,21,52.5
+leucaena,40,32,80.0
+lillipilli,40,14,35.0
+lime,40,27,67.5
+lingonberry,40,23,57.5
+loganberry,40,21,52.5
+longan,40,32,80.0
+loquat,40,28,70.0
+lucuma,40,26,65.0
+lulo,40,21,52.5
+lychee,40,28,70.0
+mabolo,40,26,65.0
+macadamia,40,28,70.0
+malay apple,40,22,55.0
+mamey apple,40,27,67.5
+mandarine,40,12,30.0
+mango,40,17,42.5
+mangosteen,40,25,62.5
+manila tamarind,40,32,80.0
+marang,40,30,75.0
+mayhaw,40,13,32.5
+maypop,40,24,60.0
+medlar,40,25,62.5
+melinjo,40,25,62.5
+melon pear,40,31,77.5
+midyim,40,37,92.5
+miracle fruit,40,29,72.5
+mock strawberry,40,16,40.0
+monkfruit,40,38,95.0
+monstera deliciosa,40,33,82.5
+morinda,40,23,57.5
+mountain papaya,40,24,60.0
+mountain soursop,40,20,50.0
+mundu,40,22,55.0
+muskmelon,40,16,40.0
+myrtle,40,31,77.5
+nance,40,27,67.5
+nannyberry,40,29,72.5
+naranjilla,40,24,60.0
+native cherry,40,36,90.0
+native gooseberry,40,25,62.5
+nectarine,40,25,62.5
+neem,40,38,95.0
+nungu,40,32,80.0
+nutmeg,40,30,75.0
+oil palm,40,31,77.5
+old world sycomore,40,39,97.5
+olive,40,21,52.5
+orange,40,22,55.0
+oregon grape,40,34,85.0
+otaheite apple,40,24,60.0
+papaya,40,33,82.5
+passion fruit,40,29,72.5
+pawpaw,40,17,42.5
+pea,40,37,92.5
+peanut,40,32,80.0
+pear,40,25,62.5
+pequi,40,31,77.5
+persimmon,40,29,72.5
+pigeon plum,40,36,90.0
+pigface,19,12,63.16
+pili nut,40,31,77.5
+pineapple,40,36,90.0
+pineberry,40,40,100.0
+pitomba,40,28,70.0
+plumcot,40,19,47.5
+podocarpus,10,8,80.0
+pomegranate,40,27,67.5
+pomelo,40,19,47.5
+prikly pear,40,19,47.5
+pulasan,40,31,77.5
+pumpkin,40,32,80.0
+pupunha,40,27,67.5
+purple apple berry,40,35,87.5
+quandong,40,29,72.5
+quince,40,11,27.5
+rambutan,40,33,82.5
+rangpur,40,13,32.5
+raspberry,40,28,70.0
+red mulberry,40,26,65.0
+redcurrant,40,27,67.5
+riberry,40,25,62.5
+ridged gourd,40,35,87.5
+rimu,20,13,65.0
+rose hip,40,14,35.0
+rose myrtle,35,28,80.0
+rose-leaf bramble,40,17,42.5
+saguaro,40,33,82.5
+salak,40,25,62.5
+salal,40,29,72.5
+salmonberry,40,27,67.5
+sandpaper fig,40,26,65.0
+santol,40,27,67.5
+sapodilla,40,27,67.5
+saskatoon,40,34,85.0
+sea buckthorn,40,36,90.0
+sea grape,40,29,72.5
+snowberry,40,32,80.0
+soncoya,40,31,77.5
+strawberry,40,36,90.0
+strawberry guava,40,19,47.5
+sugar apple,40,14,35.0
+surinam cherry,40,20,50.0
+sycamore fig,40,28,70.0
+tamarillo,40,30,75.0
+tangelo,40,35,87.5
+tanjong,22,17,77.27
+taxus baccata,40,31,77.5
+tayberry,40,33,82.5
+texas persimmon,40,37,92.5
+thimbleberry,40,26,65.0
+tomato,40,31,77.5
+toyon,40,31,77.5
+ugli fruit,40,34,85.0
+vanilla,40,36,90.0
+velvet tamarind,40,34,85.0
+watermelon,40,35,87.5
+wax gourd,40,32,80.0
+white aspen,32,21,65.62
+white currant,40,33,82.5
+white mulberry,40,31,77.5
+white sapote,40,19,47.5
+wineberry,40,23,57.5
+wongi,40,29,72.5
+yali pear,40,31,77.5
+yellow plum,40,20,50.0
+yuzu,40,25,62.5
+zigzag vine,28,25,89.29
+zucchini,40,29,72.5
